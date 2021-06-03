@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A plain ansvver to the eighteen quaeries of John Whitehead, commonly called Quaker in which the hidden mysteries of infallible spirit, voice of Christ, the anointing, perfection, and how Christ is the light of all the world, &amp;c. : as also the singing of Davids Psalms, receiving of tithes, and that ministers may be called masters, and stand praying in the synagogues, &amp;c. is fully discovered / written by William Kays, minister of the Gospel at Stokesly, he being required to make answer thereunto, and being willing to confesse our Christian reformed Protestant religion now so much questioned and opposed.</title>
+            <author>Kaye, William.</author>
+         </titleStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47308</idno><idno type="EEBO-CITATION">13672802</idno>
+  <idno type="VID">101187</idno>
+  <idno type="EEBO-PROQUEST">2240899912</idno>
+  
+            <idno type="STC">Wing K38</idno>
+            <idno type="STC">ESTC R3386</idno>
+            <idno type="OCLC">13672802</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A47308)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101187)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 792:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A plain ansvver to the eighteen quaeries of John Whitehead, commonly called Quaker in which the hidden mysteries of infallible spirit, voice of Christ, the anointing, perfection, and how Christ is the light of all the world, &amp;c. : as also the singing of Davids Psalms, receiving of tithes, and that ministers may be called masters, and stand praying in the synagogues, &amp;c. is fully discovered / written by William Kays, minister of the Gospel at Stokesly, he being required to make answer thereunto, and being willing to confesse our Christian reformed Protestant religion now so much questioned and opposed.</title>
+                  <author>Kaye, William.</author>
+               </titleStmt>
+               <extent>[2], 17 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for N.E.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Whitehead, John, 1630-1696.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101187:1"/>
+            <p>A Plain ANSWER TO THE Eighteen Quaeries OF <hi>JOHN WHITEHEAD,</hi> Commonly called QUAKER. IN WHICH The Hidden Mysteries, of Infallible Spi<g ref="char:EOLhyphen"/>rit, Voice of Christ, the Anointing, Perfection, and how Christ is the Light of all the World, &amp;c.</p>
+            <p>AS ALSO The singing of <hi>Davids</hi> Psalms, receiving of Tithes, and that Ministers may be called Masters, and stand Praying in the Synagogues, &amp;c. is fully discovered.</p>
+            <p>Written by <hi>William Kays</hi> Minister of the Gospel at <hi>Stokesly,</hi> he being required to make answer thereunto, and being willing to confesse our <hi>Christian Reformed Protestant Religion,</hi> now so much questioned, and opposed.</p>
+            <q>
+               <p>— Be ready always to give an Answer to every Man that asketh you a Reason of the Hope that is in you, with Meekness.</p>
+               <bibl>
+                  <hi>1 Pet. 3.15.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Hear me, O Lord, hear me, that this People may know that thou art the Lord God, and hast turned their hearts back again.</p>
+               <bibl>
+                  <hi>1 Kings 18.37.</hi>
+               </bibl>
+            </q>
+            <p>LONDON, Printed for <hi>N: E:</hi> 1654</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:101187:2"/>
+            <pb n="1" facs="tcp:101187:2"/>
+            <head>A Plain ANSVVER TO THE Eighteen Quaeries OF <hi>JOHN WHITEHEAD,</hi> Commonly called QVAKER.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>O thee that art called of the World Mr.</hi> Kays, <hi>I am moved to propound these Quaeries, thy right Name I do not know.</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> I have no reason to question, but that thou wast moved to propound these Quaeries, in regard, though at the first I was unwilling to answer thee, yet shortly after I was also moved to discharge my Conscience to bear witnesse to the truth, for the information of the Election. Therefore most humbly sub<g ref="char:EOLhyphen"/>mitting to the Manifestation of the secret will of God, why he should be pleased to have my Faith made Manifest in the dangerous dayes of backslidings, and haltings between many opinions, whereby truth is reproached: writing first thy words which thou sent unto me by an Acquaintance of mine, I thus, as required, in the strength of Christ, faithfully make this plain Answer.</p>
+            <div n="1" type="query">
+               <pb n="2" facs="tcp:101187:3"/>
+               <head>1 Quaere.</head>
+               <p>
+                  <hi>Whether thou have the same eternal infallible Spirit that gave forth the Scripture, Yea, or Nay?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> I dare not conceal to bear witnesse with my Con<g ref="char:EOLhyphen"/>science,
+<note place="margin">The same Spirit is in the Saints which was al<g ref="char:EOLhyphen"/>ways, 2 Cor. <gap reason="illegible: faint" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. 18.</note> that I have in some small measure, the same Spirit that was, and now is in all the Saints, that follow Christ and his Apostles, as they have attained, <hi>Phil.</hi> 3.16. Yet I cannot own thy words <hi>Infallible Spirit,</hi> questioning who put this Popish Tenent into thy head. For, if by Infallible Spirit thou understand (as by consequence we may) a Spirit that never erred, then none (Christ excepted, that was without sinne) can absolutely challenge it; and yet this weapon of pretending Infallibility,
+<note place="margin">Infallible Spirit.</note> invented to pull down or disgrace the Ministry, is easily broken, or cannot prosper, in that we have a more glorious Sacrifice than the High Priest offered for the par<g ref="char:EOLhyphen"/>doning of his sins, and the sins of the People: So that if the Minister (as <hi>Iohn</hi> did in the time of his Revelation) shall wander, yet the Lord can, as he hath a Mercy unto his Peo<g ref="char:EOLhyphen"/>ple, make the People to own and receive nothing but the wholesom words of the Doctrine of Truth, which shall be profitable unto them.</p>
+            </div>
+            <div n="2" type="query">
+               <head>2 Quaere.</head>
+               <p>
+                  <hi>Whether thou know the rules of Christ; And whether thou wert immediatly called by him to be a Minister, or Pastor of the G<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>spel, Yea, or Nay?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi>
+                  <note place="margin">The Word Preached is the voice of Christ, 2 Cor. 10.16. 2 <gap reason="illegible: faint" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. 4.2. Acts 15.7.</note> As often as I have heard the word rightly divided, in the opening of the same in any Chapter or Verse in parti<g ref="char:EOLhyphen"/>cular, so often I have heard the voice of Christ; Neither do I deny the teaching of the Spirit to be the extraordinary voice of Christ, which I have also heard; so as I can witnesse an Immediate Call, and (yet our imperfect Actions being made perfect by Christ) I do own an Immediate Call to have Ap<g ref="char:EOLhyphen"/>probation,
+<note place="margin">T<gap reason="illegible: faint" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>aching of the Spirit.</note> according to the rule in <hi>Timothy</hi> and <hi>T<gap reason="illegible: faint" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>us.</hi>
+               </p>
+            </div>
+            <div n="3" type="query">
+               <head>3 Quaere.</head>
+               <p>
+                  <hi>Whether the Word which thou Preachest be the same from the beginning, which thou hast heard and seen, and hast been taught immediatly by the Revelation of Iesus Christ, Yea, or Nay?</hi>
+               </p>
+               <pb n="3" facs="tcp:101187:3"/>
+               <p>
+                  <hi>Answ.</hi> The word that I preach is so much the same from the beginning, as that River is the same which runneth con<g ref="char:EOLhyphen"/>tinually, having supply from the same Fountain,
+<note place="margin">Psal. 87, 7.</note> so that with <hi>David</hi> I may say, <hi>All my fresh springs are in th<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e.</hi> As God is pleased to appear in the discoveries of his outward Admini<g ref="char:EOLhyphen"/>strations, though in respect of the measure of Attainment, one Saint, as the four Evangelists, will be found to have more or lesse unto them discovered.</p>
+            </div>
+            <div n="4" type="query">
+               <head>4 Quaerie.</head>
+               <p>
+                  <hi>Whether ever any shall grow up under they Ministry, that they shall need no man to teach them, but the Anointing in them, and whether thou own the Anointing, or had known there had been such a thing, if the Sriptures had not spoken of it, Yea, or Nay?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> 1. Concerning the growing under my Ministry, &amp;c. I say there is no such absolute promise made to any Mans Ministry, seeing, as the Apostle saith,
+<note place="margin">2 Cor. 2, 16.</note> We are a sweet savour in Christ, in them that perish, and in them that are saved, &amp;c. Therefore until I shall answer the tenth Quaerie, which harpeth upon the same string, I shall cease further to inform.</p>
+               <p>2ly. Concerning the Anointing, I do most thankfully to the praise of his free grace own it, by which every faculty,
+<note place="margin">The Anoin<g ref="char:EOLhyphen"/>ting exempts none from the Ministry, 2 Pet. 1.12.</note> and affection of my Soul, like the light in our Souls, speaks the language that the Spirit teacheth them; yet, that upon this account, or Christian qualification, any should think themselves exempted from the Ministry, which is a conse<g ref="char:EOLhyphen"/>quence which some would pretend, <hi>Peter</hi> plainly proves the contrary, 2 <hi>Pet.</hi> 1.12. saying, <hi>I will not be negligent to put you always in remembrance of these things, though you know them, and be established in the present truth, Yea I think it me<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t, as long as I live in this Tabernacle, to stir you up, by putting you in remembrance.</hi> So that, though the a<g ref="char:EOLhyphen"/>nointing do teach us, that we need not be taught, yet the word of God doth not say, because you need not, therefore ye shall hear no word, which is thy voice, And if only the anointing must teach, there should be no flock, or o<g ref="char:EOLhyphen"/>therwise
+<pb n="4" facs="tcp:101187:4"/>the Church should consist only of weak Members, and not of strong, therefore that thy Consequence to cast off Hearing, because of the anointing, may be condemned, the wofull experience of such as at the least are fallen into worldly security, can most wofully experience that it is not that truth which doth sanctifie.
+<note place="margin">Iohn 17.17.</note>
+               </p>
+               <p>3ly. And yet to answer thee more fully, whether I own the Unction or No,
+<note place="margin">Unction</note> I say, in the name of Christ, though I do discover the falle applications which are made of it, yet I confesse that the <hi>Unction</hi> is the seed of my Soul, my Joy and Crown, so much I own it.</p>
+               <p>4ly. Concerning my knowledge of the Unction, If the Scriptures had not spoken of it, I say, that such is the suffi<g ref="char:EOLhyphen"/>ciencie of the Scriptures, that as <hi>Paul</hi> said of Sin, He had not known it but by the Law, so I had not known the anointing, but that the Scriptures had declared it, for God never cea<g ref="char:EOLhyphen"/>sed to reveal himsel,
+<note place="margin">No thing to be owned but by the Scrip<g ref="char:EOLhyphen"/>ture, 2 Tim. 3.15, 16, 17.</note> until He compleated His will in His word, so that without it there is nothing to be known, as to be owned with Approbation; for the Scriptures are able to make us wise unto salvation, that the man of God may be perfect, throughly furnished with all good works.</p>
+            </div>
+            <div n="5" type="query">
+               <head>5 Quaere.</head>
+               <p>
+                  <hi>Whether thou own that Christ is the light of the world, and hath enlightned every one, Yea or Nay?</hi>
+               </p>
+            </div>
+            <div n="6" type="query">
+               <head>6 Quaere.</head>
+               <p>
+                  <hi>Whether thou own the word of</hi> Iohn <hi>to be true,</hi> Ioh. 1.9. <hi>Where he witnesseth Christ to be the true light, which inlight<g ref="char:EOLhyphen"/>neth every one that cometh into the world, Yea, or Nay?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> I have written both these Quaeries together, both which I own, which me thinks to a Christian should not be put into a Quaere, and if so, I conceive the second to be the repetition of the first, to be labour in vain, yet I think it not amiss to declare, That <hi>Christ</hi> is not only the light of the world through his Revelation,
+<note place="margin">How Christ is the light of the world, Heb. 10.20. Mat. 5.16.</note> and effectual calling us by the Spirit of Regeneration and Revelation, but as Christ consecrated unto us a new and living way, through the veil of his Flesh, and as he walked in all the way of the Lord, as servant of
+<pb n="5" facs="tcp:101187:4"/>God in obeying, works of Miracles, and meritorious suffe<g ref="char:EOLhyphen"/>ring, therefore as the Apostles were the light of the world, so, and also more gloriously, Christ is the light of the world, and of his Church in all Nations, which light of Christ some of my Neighbours being falsly principled in, told me in prison, where I did visit them, That they be<g ref="char:EOLhyphen"/>ing taught to follow the light in their Consciences,
+<note place="margin">Children did sacrifise their Mother, upon pretence of obeying Christ the light in them.</note> and that that light was Christ, their Conscience telling them that they were to destroy original sin, did therefore, apprehen<g ref="char:EOLhyphen"/>ding that their Mother was the fountain thereof, in o<g ref="char:EOLhyphen"/>bedience to the lights thats in them, that they were taught to be Christ, as most horribly deluded, did sacrifise or kill their own Mother; therefore seeing the world are the Children of darknesse, as being distinguished from the Children of the day, or light, and that yet it is said that Christ doth illuminate them, as Christ gives to all Crea<g ref="char:EOLhyphen"/>tures the light in their Creation, is not to be denyed, being witnessed.</p>
+            </div>
+            <div n="7" type="query">
+               <head>7 Quaere.</head>
+               <p>
+                  <hi>Whether it be not blasphemy to call the true light of Christ, which insightneth every one who cometh into the world, a na<g ref="char:EOLhyphen"/>tural light, and whether they do not deny Scriptures, that say that every one is not inlightned with the true light, Yea, or Nay?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi>
+                  <note place="margin">Christ light, <gap reason="illegible: faint" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ght of a Creature.</note> As light by just consequence may be (and not o<g ref="char:EOLhyphen"/>therwise) called natural, so the light may be also called, or distinguished to be supernatural, which is properly Christs light; called the light which no man can approach unto. 1 <hi>Tim.</hi> 6.16. 2ly. Supernatural light, or the light which may be communicated to a New Creature, or a New-Creature light, though it may be comprehended as being experienced by Gods people,
+<note place="margin">New Cre<g ref="char:EOLhyphen"/>ture l<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ght, 1 Pet. 2.9.</note> yet in regard it is not ordinary light which is in every Creature, for distinction sake, in the wisdom of God it is therefore called wonder<g ref="char:EOLhyphen"/>full light, 1 <hi>Pet.</hi> 2.6. As making all men through Pati<g ref="char:EOLhyphen"/>ence, Humility, Self-Denyal, Charity, and Devotion, to admire how the Image of God doth shine in his sincere
+<pb n="6" facs="tcp:101187:5"/>Converts or New Creatures, so that we may see in what respect natural and supernatural light may be distingui<g ref="char:EOLhyphen"/>shed, though they all flow from one and the same Foun<g ref="char:EOLhyphen"/>tain; all power, even of Motion is of God, yet our natu<g ref="char:EOLhyphen"/>ral Motion and Moving, and paces, wherein he is Omni<g ref="char:EOLhyphen"/>potent and Almighty, is to be distinguished, otherwise the Creature and the Creator, the thing performed, or hea<g ref="char:EOLhyphen"/>ted, with the performer, and the fire, cannot be said to differ, and therefore unlesse any maliciously put the light of Christ under a Bushel, as to indeavour to confound and destroy Christs light, in part, as to make it altogether na<g ref="char:EOLhyphen"/>tural,
+<note place="margin">Esay 1.</note> I leave it to others to judge who is guilty of blas<g ref="char:EOLhyphen"/>phemy, for a Wo is pronounced against such like confusion: For my own particular I acknowledge the light of the Law of Christ, to be more or lesse in the light of Nature, and that as Christ is pleased, he can by the preaching of the Gospel,
+<note place="margin">Act. 26.18.</note> open mine eyes, and turn them from darknesse to light. <hi>Act.</hi> 26.18.</p>
+            </div>
+            <div n="8" type="query">
+               <head>8 Quaere.</head>
+               <p>
+                  <hi>Whether the true light of Christ which lightneth every one that cometh into the world, which discovereth all deeds of darknesse, be not safficient to lead all those that love and follow him, into Holinesse and all truth, seeing Christ who is the light, saith, That those that follow him, shall not abide in darknesse, but have the light of life?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> To this I plainly answer the Yea, Christs light when it is revealed, or by Grace further than by Nature, as in 1 <hi>Pet.</hi>
+                  <note place="margin">
+                     <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Cor.</note> 2.9. and <hi>Act</hi> 26.18, &amp;c. it is communica<g ref="char:EOLhyphen"/>ted (seeing the Natural man perceiveth not the things of God) is sufficient, and that whosoever pretendeth to have this sufficient light of Christ, he either hath it not, or by Christs light may see, to obey Magistrates, Ministers, Lords day, Worship, Baptism, Fasting, Praying, Sing<g ref="char:EOLhyphen"/>ing, which as we are fully illuminated by Christ, we shall submit thereunto in the power of Godlinesse, as well as to avoid all blasphemy and prophanesse.</p>
+            </div>
+            <div n="9" type="query">
+               <pb n="7" facs="tcp:101187:5"/>
+               <head>9 Quaere.</head>
+               <p>
+                  <hi>Whether the end of begifting and sending forth his Mini<g ref="char:EOLhyphen"/>sters, is for the perfecting of the Saints, and for bringing them up to his Measure, or Fulness, Yea, or Nay?</hi>
+               </p>
+               <p>I Answer, Yea.</p>
+            </div>
+            <div n="10" type="query">
+               <head>10 Quaere.</head>
+               <p>
+                  <hi>Whether any shall grow up under thy Ministry to a perfect Man, to the measure of fullness, and stature of Christ, Yea, or Nay?</hi>
+               </p>
+               <p>To this I answer, If thou hadst not prevented us, when thou wast lately with us, thou mightest have been Iudge of some of their perfections; concerning whom, I may say as the Father of the blind Man said to the Pharises concerning his Son, They are at Age, ask them, and try them, whether there be not some that will not avoid to answer thee.
+<note place="margin">Perfection, fulnesse, and stature of Christ.</note> As concerning the fullnesse of the stature of Christ, I hope, thou or any mayst see, if they will read <hi>Ephes.</hi> 4.13. that this fullnesse of perfection is in the unity of Faith, and not in Legal perfection, or a perfection by works of the Law, especially to walk after the lowest steps which Na<g ref="char:EOLhyphen"/>ture teacheth us, must not ambitiously be thought to be the Stature of Christ, of the perfection of Christ, which teacheth self-denyal, and to submit to God and Man, so as to own God to be the God of Order, and not of Confusi<g ref="char:EOLhyphen"/>on; As by Faith then all our defects, imperfections,
+<note place="margin">How the Mi<g ref="char:EOLhyphen"/>nistry is for the perfection of the Saints. Eph. 4. Phil. 3.12, 13, 14.</note> and sins are not imputed; And as thereby we may apply the righteousnesse of Christ, whereby God may see no transgression in <hi>Iacob,</hi> we are, and all believers must come to the measure of the perfection of Christ, for which he hath ordained his Ministers, which is no lesse than the high price of our Calling; so that as the Apo<g ref="char:EOLhyphen"/>stle <hi>Philip.</hi> 3.12. saith, Not as though we had already at<g ref="char:EOLhyphen"/>tained, or were already perfect, But we follow after, if that we may apprehend that for which we are also apprehen<g ref="char:EOLhyphen"/>ded of Iesus Christ.</p>
+            </div>
+            <div n="11" type="query">
+               <head>11 Quaere.</head>
+               <p>
+                  <hi>Whether they be not Ministers of Antichrist, and were ne<g ref="char:EOLhyphen"/>ver
+<pb n="8" facs="tcp:101187:6"/>sent of Christ, that deny perfection, which they that are sent of Christ are to bring unto, Yea, or Nay?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Nay, They are not; nor must thou or any ima<g ref="char:EOLhyphen"/>gine,
+<note place="margin">Note.</note> that in bidding, or exhorting the world to look only to the Light that is within them, they shall ever come to per<g ref="char:EOLhyphen"/>fection.</p>
+            </div>
+            <div n="12" type="query">
+               <head>12 Quaere.</head>
+               <p>
+                  <hi>Whether he thats born of God do commit sin, Yea, or Nay? And whether he that committeth sin is of the Devil, Yea or Nay?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi>
+                  <note place="margin">How they th<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t are bo<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n of God may be said to sin.</note> In that he that is born of God, is exhorted to repent, <hi>Rev.</hi> 2, whereby they are renewed to mortifie the old Man, or dye day by day, and that they see but in part, and may be deluded, <hi>Rev.</hi> and winnowed, <hi>Matt.</hi> 23. Therefore I do affirmatively say, as all Saints have experienced that have received the Holy Ghost, that those that are born of God may sin; There<g ref="char:EOLhyphen"/>fore in regard those that are born of God sin not, his words, like some sayings of
+<note n="*" place="margin">2 Pet. 2.3.</note>
+                  <hi>Paul</hi> in this respect, may be hard to be understood; yet if we take but good notice thereof, the truth is so easily reconciled, in that whereas <hi>Iohn</hi> saith, a Child of God sinneth not, if the 8 <hi>verse</hi> go<g ref="char:EOLhyphen"/>ing before be considered,
+<note place="margin">How they that are born of God sin, or sin not, 1 Joh. 3.8, &amp; 9 verses.</note> is in this sense, or this is his mea<g ref="char:EOLhyphen"/>ning, That the Child of God sinneth not after the simili<g ref="char:EOLhyphen"/>tude, manner, or measure, or Nature, that the Devil and his Reprobates sin, 1 <hi>Iohn</hi> 3.8, 9. so that <hi>Iohn, verse</hi> the 9. sheweth a reason, having spoken of the Devils sinning, say<g ref="char:EOLhyphen"/>ing, <hi>Whosoever is born of God doth not commit sin; for</hi> (saith <hi>Iohn</hi>) <hi>the seed remaineth in him, whereby he shall repent him of his sin,</hi> that is, he hath grace of God in him, which being an Immortal seed, doth cause him to be restored from his sall, which the Devil in his sinning, &amp;c. cannot do: And so a Child of God, being through that seed renewed through Gospel-repentance, sins not Devil-like, unto Death or Damnation, but so sinneth, as <hi>Paul</hi> explaineth it, onely (through Temptation) after the similitude of <hi>Adams</hi> Transgression. And to answer, <hi>Whether he that sinneth is
+<pb n="9" facs="tcp:101187:6"/>of the Devil, or no?</hi> I do say, That the Child of God, as he sinneth is of the Devil, not that the Devil can claim him for his, or that he is in the possession of the Devil;
+<note place="margin">How a Child of God through sin<g ref="char:EOLhyphen"/>ning is of the Devil.</note> but he is of the Devil, as partly captivated, overpowred and winnowed. And therefore, as at the same time <hi>Peter</hi> was cryed up, for his profession to be a Saint, at the same time Christ called <hi>Peter</hi> a Devill: And yet Christ so calling of him, did not look upon <hi>Peter</hi> as a Repro<g ref="char:EOLhyphen"/>bate, but as a Saint that had sinned. And thus I have Answered this snaring-like hard question, though all the Saints do own this by experience; so that though Saints, as I said, do not sin Devil-like, to sin unto Death, yet if any Man say, He hath not sinned after the similitude of <hi>Adams</hi> transgressions, he is, saith <hi>Iohn,</hi> a Lyar, and the truth is not in him.</p>
+            </div>
+            <div n="13" type="query">
+               <head>13 Quaere.</head>
+               <p>
+                  <hi>Whether they be not Ministers for Satan, and such as de<g ref="char:EOLhyphen"/>ceive Mens Souls, that tell the People they must commit Sin which they are here in this Earth; and yet cause them to lean upon the Lord for Iustification in that state; As if Christ died to justifie a Sinner in his sin? And whether that be not to count the bloud of Christ an unholy thing, Yea, or Nay?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> To that of Ministers that tell the People that they must commit Sin, in that it is the duty of every Minister, to lift up his voice like a Trumpet, and tell the people their sins, and to rebuke with all Authority; if thou find any such as do incourage sin, I do judge them the Ministers of Satan, and not of the Gospel.</p>
+               <p n="2">2ly. But that any Ministers, as thou saist, in exhorting men to lean upon the Lord for Iustification, should for this be condemned, so as to point but at Christ,
+<note place="margin">Joh: 1.</note> as <hi>Nathaniel</hi> did, saying, <hi>Behold the Lamb of God that taketh away the sins of the world;</hi> for either we must, with the Fool,
+<note place="margin">Necessity of Christ, sacri<g ref="char:EOLhyphen"/>fice.</note> make a mock of sin, and deny our sin to be infinite; or with the Papist, think to merit for our sinfull Works, which is foolish and blasphemous; or we must, as Heathens, from the light that is in us, (not seeing the true way to satisfie Gods Iu<g ref="char:EOLhyphen"/>stice)
+<pb n="10" facs="tcp:101187:7"/>go to our folds, or take our Children and sacrifice them; or else, as it hath been from the beginning, we must flie to, and rely upon the Merits of Christ, our propitiatory sacrifice: so much, as the Apostle saith, it cost to redeem a Soul.</p>
+               <p n="3">3. And in this I would not have thee to play the Scholi<g ref="char:EOLhyphen"/>ast, or to propound such Sophistical Quaeries; as, If Christ shall be said to dye to justifie a Sinner, it were to make his bloud an unholy thing: What? Is there some that can be so blind to imagine, That Christ, that both converts and satisfies the heart, the Mediator to go to God, so that God may be all in all, should come to condemn the World of sin, and yet by his bloud justifie sin? For the Saints that lived under the Law, were not Ignorant of this doctrine of the Gospel,
+<note n="*" place="margin">Psa: 32.2.</note> saying, <hi>Blessed is the Man to whom the Lord impu<g ref="char:EOLhyphen"/>teth not his sin;</hi> so that for Christ to justifie a sinner, is no more than to take away his sin, or not impute it, or to par<g ref="char:EOLhyphen"/>don the offence, as a Prince may do, and yet not approve of the sin, though he do forgive the offendor.</p>
+            </div>
+            <div n="14" type="query">
+               <head>14 Quaere.</head>
+               <p>
+                  <hi>Whether they that do commit sin be justified therein by Christ? and If No, What shall the end be of those that doe commit sin as long as they live here on Earth, seeing they are not justified by Christ, but must depart from him, who are wor<g ref="char:EOLhyphen"/>kers of Iniquity? Shew me this by Scripture.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> In this I do find nothing, but the subtil winding of Serpentine wisdom, in the repetition of thy former, or 13 Quaere, which is not suitable to Gospel-simplicity; But lest this may be thought to be a put off,</p>
+               <p n="1">1. First I Answer, That though they that commit sin may by free Grace be pardoned, and so justified, yet are they not justified to commit sin, or their sin is not justified. 2ly. And therefore, to tell thee plainly, what will become of them that commit sin as long as they live, I Answer, All that commit sin knowingly, if they dye without repentance, they are damned, as being never justified, or converted; for if any man be justified, he hath the seed of Grace in
+<pb n="11" facs="tcp:101187:7"/>him, and so he cannot sin as the Devil, or Reprobates sin, but he sinneth after the similitude of <hi>Adams</hi> transgression through temptations and delusions, and so to be renewed by Gospel Repentance, so that I plainly tell thee, that e<g ref="char:EOLhyphen"/>very unbeliever that knowingly sinneth until the last mo<g ref="char:EOLhyphen"/>ment or end of his life, is damned.</p>
+            </div>
+            <div n="15" type="query">
+               <head>15 Quaere.</head>
+               <p>
+                  <hi>Shew me in the Scripture where ever any Pastor or Mini<g ref="char:EOLhyphen"/>sters had their gain from their quarters, or whether ever a<g ref="char:EOLhyphen"/>ny of them received tithes, or mony for tithes, or a gift of the people instead of their tithes; And (if not) let their life, and the light of thy Conscience judge thee.</hi>
+               </p>
+               <p>
+                  <hi>Answ. Paul</hi> and all the Apostles,
+<note place="margin">T<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>thes freely given by the Magistrate are lawfully re<g ref="char:EOLhyphen"/>ceived under the Gospel.</note> which had whole Coun<g ref="char:EOLhyphen"/>tries for their quarters, according to the command of Christ, took whatsoever was given them, so that it is ex<g ref="char:EOLhyphen"/>presly said, if thou wilt take notice of it, <hi>Act.</hi> 28.10. That they were not only (contrary to thy Spirit) honoured with many honours, but besides the entertainments, they were laded with such things as were necessary, so that if there were not Corn unthreshed, there was which was better, Bread which they gave out from their own mouths to feed the Apostles, <hi>Paul</hi> who did expressely take wages-money to do service, or preach the Gospel according to Christs Ordinance, therfore thou judgest rashly in condemning me, if I shall not shew thee that which the Scripture doth not require me to shew thee, for in all the Scripture thou canst not shew me, That I being not persecuted,
+<note place="margin">Right imita<g ref="char:EOLhyphen"/>tion of the A<g ref="char:EOLhyphen"/>postles.</note> should not<g ref="char:EOLhyphen"/>withstanding so voluntarily persecute my self, and deny Gods free mercy, As to imitate the Apostle only in recei<g ref="char:EOLhyphen"/>ving maintenance when they were persecuted; For the rule of Necessity in taking of Physick, whereby we are not to eat, is not the rule upon our recovery, of common eating. But to the point of tithes, which in respect of darknesse and prejudice, some Saints are herein unsatisfied, I must tell thee plainly, that thou understandest not thy self in judging from the Apostles example, except that thou couldst prove by Scripture, that the Apostles might have
+<pb n="12" facs="tcp:101187:8"/>had tithes, or those Ministers which were like <hi>Timothy</hi> and <hi>Titus,</hi> setled in a parochial like way in their quarters, might have had Tithes given them, and yet refused them, which if any man can prove, I will never receive tithes, or (as I do) take money for tithes, till then the light of the Apostles, that took whatsoever was given them, satisfies my Conscience to praise God for the Magistrate that doth freely give me it, with that respect unto the Gospel, or so bountifully, that I may be inabled to be given to hos<g ref="char:EOLhyphen"/>pitality, for as the Apostle saith, As they that waited on the Altar were partakers of the Altar, so hath the Lord or<g ref="char:EOLhyphen"/>dained, that they that preach the Gospel should live of the Gospel.</p>
+            </div>
+            <div n="16" type="query">
+               <head>16 Quaere.</head>
+               <p>
+                  <hi>Shew me by the Sciptures where ever any of the Ministers of Christ did give</hi> Davids <hi>Psalms to be sung of the people in a Rime, and if not, then acknowledge that thou art in the in<g ref="char:EOLhyphen"/>ventions and traditions of men, raised out from them all.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi>
+                  <note place="margin">Ps. 4<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.3.4.</note> Though <hi>David</hi> did gloriously indite, and open dark sayings upon the Harp, yet all Saints so abounded in praising, and singing Psalms, and praying, that the Psalms were in the new Testament never called <hi>Davids</hi> Psalms as thou callest them, and as thou mayst read <hi>Luke</hi> 24.44. <hi>Acts</hi> 1.20. 1 <hi>Cor.</hi> 14.26. <hi>Ephe.</hi> 5.19. <hi>Iam. Mat.</hi> 26.30, &amp;c. 2ly. I plainly answer thee, that
+<note n="*" place="margin">2 Chron. 29.</note>
+                  <hi>Hezechias</hi> a King, did command to sing <hi>Davids</hi> Psalms, and of <hi>Asaph, David</hi> a Minister, did expresly give out his Psalms, directing them to the chief Musicians to be sung, And thus either Christ did give out a Hymn, or as the ancient translator saith, a Psalm, or otherwise they could not have sung it, but as they knew if before, or had be<g ref="char:EOLhyphen"/>fore committed it memory;
+<note place="margin">Singing of David Psalms</note> and in like manner <hi>Paul</hi> and his Brother Saint and Companion in imprisonment, either made a Psalm or Hymn, and then gave it out, or had both learned a Psalm, be it of <hi>Davids</hi> or any other of the Pro<g ref="char:EOLhyphen"/>phets, for they did so sing together, as that the Prisoners beard them; In that thou objectest against the Rimes
+<pb n="14" facs="tcp:101187:8"/>This is in Charity I hope for want of understanding, for Rime is not necessarily required nor stood upon in singing, though the measure of Syllables is necessary, as for the Holy Ghost to observe measure of Syllables in speaking of com<g ref="char:EOLhyphen"/>mon language, and yet the Holy Ghost is not stinted in one word, no more than the measuring of Syllables in many words together, therefore if thou wert to speak by revelation Bread, thou must keep close to thy Sylla<g ref="char:EOLhyphen"/>bles in this word; for if thou add any Syllable unto it, as to say unbread, or to take a Syllable from it, and so call it ade, instead of Bread, thou lyest, and therefore if the Holy Ghost bids sing, which thou canst not deny, it doth bid Measure words in Syllables, without which there can be no singing, And therefore as I may justifie,
+<note place="margin">Rev. <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> that there was six Churches, because the Holy Ghost said there is seven, so I say I can justifie meter or Rhithm, as if it falls out, because the Holy Ghost hath both commanded us to speak and sing, which cannot be done without Measuring or observation, more or lesse of Syllables, the Rithm falling out without any necessary studi<g ref="char:EOLhyphen"/>ous observation, so that all things be done as is commanded according to our attainment to the Rule of singing for edification, for as yesterday, in the days of old, so to day in our time, Christ is the same Christ in ordaining singing, and we may as well take <hi>Davids,</hi> &amp;c. words, as <hi>David</hi> sing
+<note n="*" place="margin">Ps 14.1.</note> Fools words, with right application, and may as faithfully apply all <hi>Davids</hi> words, as thou mayst say <hi>I am thy Lord thy God,</hi> in reading.</p>
+            </div>
+            <div n="17" type="query">
+               <head>17 Quaerie.</head>
+               <p>
+                  <hi>Whether that Woe that Christ pronounced against the Pharises, who were called of Men Masters, had the highest place in the Assemblies, and stood pray<g ref="char:EOLhyphen"/>ing in the Synagogue, doe not abide upon thee, who art called of Men Master, hast the chief seat in the
+<pb n="14" facs="tcp:101187:9"/>Assembly, standest praying in the Synagogue, or how wilt thou justifie thy self in these practices, seeing Christ is the same yesterday, to day, and for ever, who cryed Woe against them that lived in them?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> I doe not fear the Woes pronounced against the Pharises,</p>
+               <p n="1">1. Because
+<note n="*" place="margin">Christ and his Prophets, and Apostles were called Masters, and Sirs, Luke 3.12. Luke 5.5 Mark 11.21. Eccles. 12.11. 1 Kings 6.5. Acts 16.30. John 5.7.</note> Christ, his Prophets, and Apostles, (as well as my self) were called both by the Saints, and the World, Masters, Sirs, and yet did not rebuke those that so called them, though Christ doth pronounce a Woe against any, as well as the Pharises, that wit<g ref="char:EOLhyphen"/>tingly and vain-gloriously doe in Markets or Syna<g ref="char:EOLhyphen"/>gogues desire so to be Cryed up and exalted, which, I blesse God, herein my Conscience doth not Condemn me; though in love to thy Soul I am stirred up to wish thee to examine thine own heart, whether thou dost not, Pope-like, as farre as thou canst, exalt thy self above, or Contemn all; in that thou Cryest down all, and wilt not put off thy Hat to the Ma<g ref="char:EOLhyphen"/>gistrate, &amp;c. all that is called God or is worshipped, Lord, Lady, Magistrate, Kings and Superiors, &amp;c.</p>
+               <p>Secondly, As concerning my Preaching and Pray<g ref="char:EOLhyphen"/>ing in a Pulpit of wood in the Synagogue, in regard, unlesse I should doe it for vain-glory, And not to seek so to discharge my Duty to feed the Flock of Christ, I am no more than Christ,
+<note place="margin">Christ &amp; his Prophets and Apostles prea<g ref="char:EOLhyphen"/>ched in Pul<g ref="char:EOLhyphen"/>pits, Nehem. 8.4. <gap reason="illegible: faint" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. 4.16. Act 13.14. Acts 17.10. Act. 3.1.</note> his Prophets, and Apo<g ref="char:EOLhyphen"/>stles, who did preach in the Synagogues, to be Con<g ref="char:EOLhyphen"/>demned; For the Pulpit of Wood is as fit a place for speaking in, or preaching in, as the Seats or Losts, that <hi>Eutichus</hi> sate in, were for hearing; And though I heard thee speak evill of the Synagogues, yet they must be ignorant of the truth that will believe thee: For the Synagogue, which word was never given by Popery, may, as well as the English word Publique Meeting place, be approved, by Christ called The house of God, The house of Prayer; though thou
+<pb n="15" facs="tcp:101187:9"/>like Merchants that prophaned the Temple, dost base<g ref="char:EOLhyphen"/>ly Contemn it; And therefore I tell thee plainly, that as Christ did yesterday, so I doe to day ac<g ref="char:EOLhyphen"/>knowledge to be called Master, Minister, or Pastor, and doe likewise, Christ like, own in sinceritie and humility, to stand Praying in the Synagogue.</p>
+            </div>
+            <div n="18" type="query">
+               <head>18 Quaere.</head>
+               <p>
+                  <hi>Whether they be not Ministers of Antichrist that do practise these things that Christ cried Woe against? and Whether they be the Ministers of Christ, that through their Subtilty goe about to justifie these practices that Christ forbad, and cryed Woe against, Yea, or Nay?</hi>
+               </p>
+               <p>
+                  <hi>Answer.</hi> This Quaere is no more than thy Appli<g ref="char:EOLhyphen"/>cation to thy 11, 13, 16, &amp; 17 Quaeries, which, see<g ref="char:EOLhyphen"/>ing thou hast in thy own Name required me to an<g ref="char:EOLhyphen"/>swer thee, Yea or Nay, with Application to every Quaere, there was no need of this waste: For if thou knowest any to goe about subtilly to justifie these pra<g ref="char:EOLhyphen"/>ctices, it were well it were put out of a Quaere, that as in Charity I ought to judge thee herein, that thou Contendest for the Faith, so thou wouldest a<g ref="char:EOLhyphen"/>bound in Charitie, which thinketh no Evill, so as to die to all Causlesse Jealousies, or root of bit<g ref="char:EOLhyphen"/>ternesse, or Contempt against Conscionable Profes<g ref="char:EOLhyphen"/>sors.</p>
+            </div>
+            <div type="conclusion">
+               <pb n="16" facs="tcp:101187:10"/>
+               <head>IOHN WHITEHEADS Conclusion</head>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>
+                        <hi>GIve me an Answer to these Quaeries without wresting of the Scriptures, or adding to them, or diminishing from them, or else lay thy hand upon thy mouth, and acknowledge thy self to be out of the Doctrine of Christ, and practice of his Ministers, and give over deceiving of Souls.</hi>
+                     </p>
+                     <byline>Written by one who is a Ser<g ref="char:EOLhyphen"/>vant of the truth, called of the world, JOHN WHITEHEAD.</byline>
+                  </body>
+               </floatingText>
+               <p>
+                  <hi>Answ. IOhn Whitchead,</hi> let me tell thee plainly, that these thy words being far from the meek Spirit of the Apostles I beseech you Brethren. Therefore though thou do hereby shew a Pope-like usurpation, in comman<g ref="char:EOLhyphen"/>ding me to give thee an answer, upon pain of suspension, or to be for ever silenced for any more preaching, yet not<g ref="char:EOLhyphen"/>withstanding I should not have obeyed thee, had it not been to answer the command and call of God, whereby I have been moved without wresting or diminishing the Scriptures to tell the mind of God, or the teaching of his Spirit, whereby the truth is to be owned in all thy several Quaeries; And therefore I hope, as many as own the Scriptures, and do not desire to draw Arguments from them, as some would fetch great guns out of a Castle, to turn them against the same place to destroy it, And that shall not deny distractions which the Holy Ghost used to expresse Christs meaning, when he said, Destroy this Tem<g ref="char:EOLhyphen"/>ple,
+<pb n="17" facs="tcp:101187:10"/>this was said not of the material Temple, but of the Temple of his Body, that then, if thou that biddest me lay my hand upon my mouth, shall but lay thy hand upon thy heart, thou mayst by the blessing of God know whether I or thou have been deceived, or are the deceivers, that from pretence of inward light, and spiritual injoyment (which I acknowledge) would as I have heard thee presse cast off the Ordinances of Jesus Christ, which from this spiritual enjoyment, light, and power of Godlinesse should be obeyed, whereby God may be to us the God of order, and we may enjoy Peace and Communion with God and his Saints in Truth and Union.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
